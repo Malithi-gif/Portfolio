@@ -1,4 +1,4 @@
-# Janith Kavindu Dassanayake - Academic Portfolio
+#  Academic Portfolio
 
 Responsive academic portfolio website built from the CV.
 
